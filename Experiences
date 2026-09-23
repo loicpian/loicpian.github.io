@@ -1,1 +1,109 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Expériences professionnelles | Loïc Pian</title>
+  <link rel="stylesheet" href="style.css">
+</head>
 
+<body>
+  <header>
+    <div class="conteneur">
+      <h1 class="nom-site">Loïc Pian</h1>
+
+      <nav aria-label="Navigation principale">
+        <a href="index.html">Accueil</a>
+        <a href="experiences.html" aria-current="page">Expériences</a>
+        <a href="publications.html">Publications et communications</a>
+        <a href="missions.html">Missions</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="conteneur">
+    <h2 class="titre-page">Expériences professionnelles</h2>
+
+    <article class="reference">
+      <p class="type-reference">Depuis septembre 2024</p>
+      <h3>Assistant ingénieur en partenariats, valorisation de la recherche
+        et coopération internationale</h3>
+      <p><strong>UMI SOURCE · UVSQ / Université Paris-Saclay / IRD</strong></p>
+      <ul>
+        <li>Suivi des partenariats scientifiques et institutionnels
+          et coordination entre les antennes internationales.</li>
+        <li>Animation du réseau doctoral et pilotage du groupe de travail
+          Disparités et Inégalités Doctorales (GTDID).</li>
+        <li>Préparation et suivi administratif et financier de projets
+          de recherche.</li>
+        <li>Référent HAL et administrateur-curateur de la collection
+          UMI SOURCE sur DataSuds.</li>
+        <li>Organisation d’événements scientifiques et valorisation
+          des activités de recherche.</li>
+      </ul>
+    </article>
+
+    <article class="reference">
+      <p class="type-reference">Septembre 2020 – septembre 2024</p>
+      <h3>Technicien de recherche</h3>
+      <p><strong>UMI SOURCE · UVSQ / Université Paris-Saclay / IRD</strong></p>
+      <ul>
+        <li>Animation du réseau doctoral international et contribution
+          à la création du GTDID.</li>
+        <li>Formation des doctorants aux pratiques de science ouverte.</li>
+        <li>Gestion financière des contrats et du budget récurrent ;
+          suivi des conventions de partenariats.</li>
+        <li>Administration de données sur DataSuds, gestion éditoriale
+          du site web et de la lettre d’information.</li>
+        <li>Organisation de colloques et conférences ; contribution
+          au dossier d’autoévaluation Hcéres.</li>
+      </ul>
+    </article>
+
+    <article class="reference">
+      <p class="type-reference">Septembre 2019 – septembre 2020</p>
+      <h3>Technicien de recherche et de formation</h3>
+      <p><strong>Sorbonne Université</strong></p>
+      <p>
+        Gestion administrative et pédagogique de la licence
+        Électronique, énergie, automatique : candidatures,
+        inscriptions, parcours étudiants, examens et jurys.
+      </p>
+    </article>
+
+    <article class="reference">
+      <p class="type-reference">Octobre 2013 – septembre 2019</p>
+      <h3>Adjoint technique — gestion administrative et financière</h3>
+      <p><strong>Laboratoire CEMOTEV · UVSQ</strong></p>
+      <p>
+        Suivi du budget, des missions et des conventions ;
+        organisation d’événements scientifiques ; gestion éditoriale
+        du site du laboratoire et accompagnement administratif
+        des doctorants.
+      </p>
+    </article>
+
+    <article class="reference">
+      <p class="type-reference">Octobre 2009 – octobre 2013</p>
+      <h3>Adjoint technique — gestion de la scolarité</h3>
+      <p><strong>UVSQ</strong></p>
+      <p>
+        Gestion des inscriptions pédagogiques et des groupes de travaux
+        dirigés en licence économie-gestion ; préparation des examens
+        et des jurys.
+      </p>
+    </article>
+
+    <article class="reference">
+      <p class="type-reference">Avril 2009 – octobre 2009</p>
+      <h3>Adjoint technique — gestion des validations d’études</h3>
+      <p><strong>UVSQ</strong></p>
+      <p>
+        Suivi administratif des candidatures en licence et en master :
+        réception des dossiers, vérification des pièces et préparation
+        des commissions de sélection.
+      </p>
+    </article>
+  </main>
+</body>
+</html>
