@@ -112,3 +112,44 @@ a {
 .intro-centree .liens-profils {
   justify-content: center;
 }
+.titre-page {
+  margin-top: 0;
+  padding-bottom: 16px;
+  font-size: 32px;
+  color: #173b55;
+  border-bottom: 2px solid #287782;
+}
+
+.reference {
+  margin: 22px 0;
+  padding: 22px 26px;
+  background: #f5f8f9;
+  border-left: 4px solid #287782;
+  border-radius: 4px;
+}
+
+.reference h3 {
+  margin: 4px 0 12px;
+  color: #173b55;
+  font-size: 20px;
+}
+
+.reference p {
+  margin: 8px 0;
+}
+
+.type-reference {
+  color: #287782;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.lien-reference {
+  display: inline-block;
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+.note-page {
+  margin-top: 42px;
+}
