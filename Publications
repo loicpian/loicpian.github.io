@@ -1,1 +1,104 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Publications et communications | Loïc Pian</title>
+  <link rel="stylesheet" href="style.css">
+</head>
 
+<body>
+  <header>
+    <div class="conteneur">
+      <h1 class="nom-site">Loïc Pian</h1>
+
+      <nav aria-label="Navigation principale">
+        <a href="index.html">Accueil</a>
+        <a href="experiences.html">Expériences</a>
+        <a href="publications.html" aria-current="page">Publications et communications</a>
+        <a href="missions.html">Missions</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="conteneur">
+    <h2 class="titre-page">Publications et communications</h2>
+
+    <section>
+      <h2>Publications et données de recherche</h2>
+
+      <article class="reference">
+        <p class="type-reference">Jeu de données · 2026</p>
+        <h3>DWISE – Doctoral Work and Inequalities in Scientific Ecosystems</h3>
+        <p>
+          Faye, D. B., Madioune, É. M., Nguirane, M. M.,
+          Randrianandrasana, R. A., Mathieu, A., <strong>Pian, L.</strong>,
+          Rihi, Y. et Santini, S. DataSuds, version 1.
+        </p>
+        <a class="lien-reference" href="https://doi.org/10.23708/ZRDYJU">
+          Voir le jeu de données et son DOI
+        </a>
+      </article>
+
+      <article class="reference">
+        <p class="type-reference">Chapitre d’ouvrage · 2025</p>
+        <h3>Inégalités doctorales entre les Nords et les Suds.
+          Revue de littérature</h3>
+        <p>
+          Mathieu, A., Rihi, Y., Massera, M., Moign, L.,
+          Nguirane, M. M., Madioune, É. M., Randriantseheno, M.
+          et <strong>Pian, L.</strong>
+          Dans <em>Études doctorales africaines. Diversité de situations
+          et enjeux communs</em>, IRD Éditions et African Minds.
+        </p>
+        <a class="lien-reference" href="https://doi.org/10.4000/160p5">
+          Lire le chapitre via son DOI
+        </a>
+      </article>
+
+      <article class="reference">
+        <p class="type-reference">Publication · 2023</p>
+        <h3>Disparités doctorales entre Nord et Sud : bilan et stratégies
+          de « coordination juste » à l’UMI SOURCE (2022-2023)</h3>
+        <p>
+          Mathieu, A., <strong>Pian, L.</strong>, Ba, M.,
+          Madioune, É. M., Moign, L. et al.
+        </p>
+        <a class="lien-reference" href="https://hal.science/hal-04336522">
+          Consulter la publication sur HAL
+        </a>
+      </article>
+    </section>
+
+    <section>
+      <h2>Communications scientifiques</h2>
+
+      <article class="reference">
+        <p class="type-reference">Communication · 2026</p>
+        <h3>Les inéquités en science et la perception de la science ouverte
+          chez les doctorant·es à Dakar</h3>
+        <p>
+          <strong>Pian, L.</strong> et Rihi, Y.
+          Journées Science Ouverte’SHS de l’IRD,
+          Campus Condorcet, Aubervilliers, 9 avril 2026.
+        </p>
+      </article>
+
+      <article class="reference">
+        <p class="type-reference">Communication · 2025</p>
+        <h3>Vers une communauté de recherche équitable et ouverte Nord-Sud</h3>
+        <p>
+          Mathieu, A., <strong>Pian, L.</strong> et Rihi, Y.
+          Journées scientifiques de l’UMI SOURCE,
+          Madagascar, juin 2025.
+        </p>
+      </article>
+    </section>
+
+    <p class="note-page">
+      Retrouvez également mes travaux sur
+      <a href="https://cv.hal.science/loicpian">mon profil HAL</a>.
+    </p>
+  </main>
+</body>
+</html>
