@@ -95,3 +95,20 @@ a {
 .liens-profils a {
   font-weight: bold;
 }
+.intro-centree {
+  text-align: center;
+}
+
+.intro-centree .photo-profil {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.intro-centree .sous-titre {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.intro-centree .liens-profils {
+  justify-content: center;
+}
